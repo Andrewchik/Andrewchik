@@ -14,7 +14,11 @@ I'm a **Full Stack Developer** with over 3 years of commercial experience. I spe
 
 ### My GitHub Stats
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrewchik&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrewchik&show_icons=true&theme=dracula&count_private=true&hide_rank=true" alt="Andrew's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewchik&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Andrewchik&theme=dracula&layout=compact" alt="WakaTime Stats" />
+</p>
 
 ---
 
