@@ -1,6 +1,6 @@
 ### Hello, I'm Andrew!
 
-I'm a **Full Stack Developer** with over 3 years of commercial experience. I specialize in building and maintaining modern web applications. I'm passionate about learning new technologies and developing efficient, scalable solutions.
+I'm a **Full Stack Developer** with over 4 years of commercial experience. I specialize in building and maintaining modern web applications. I'm passionate about learning new technologies and developing efficient, scalable solutions.
 
 ---
 
